@@ -1,2 +1,2 @@
-# assignment
-assignments
+# Little lemons project assignments
+
